@@ -1,0 +1,3 @@
+s3-cross-region-replication-with-same-accountid-copy-cli-command-after-replication-created
+
+aws s3 cp --recursive s3://jyo-demo s3://sruthi-demo
